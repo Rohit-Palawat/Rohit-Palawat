@@ -12,7 +12,7 @@
 🎓 2nd Year B.Tech CSE Student at **GLA University, Mathura**  
 💻 Passionate about **Full Stack Development** and **Problem Solving**  
 ☕ Primary language: **Java**  
-🧠 Solved **170+ LeetCode problems**  
+🧠 Solved **250+ LeetCode problems**  
 🔥 Earned the **50 Days Badge** on LeetCode  
 📈 Current LeetCode Contest Rating: **1561**  
 ⚡ Solved **500+ DSA Questions** across coding platforms  
@@ -52,8 +52,8 @@ A fully functional AI-powered medical assistant built with my team.
 ## 📊 Coding Profiles
 
 ### 🧩 LeetCode
-- 170+ Problems Solved
-- 50 Days Badge
+- 250+ Problems Solved
+- 3 Badges Earned so far
 - Contest Rating: **1561**
 
 ### ⚔️ Codeforces
