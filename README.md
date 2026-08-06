@@ -2,18 +2,18 @@
 <h3 align="center">Full Stack Developer | Java Programmer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Programmer;170%2B+LeetCode+Problems+Solved;500%2B+DSA+Questions+Across+Platforms;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Programmer;300%2B+LeetCode+Problems+Solved;500%2B+DSA+Questions+Across+Platforms;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 2nd Year B.Tech CSE Student at **GLA University, Mathura**  
+🎓 3rd Year B.Tech CSE Student at **GLA University, Mathura**  
 💻 Passionate about **Full Stack Development** and **Problem Solving**  
 ☕ Primary language: **Java**  
-🧠 Solved **250+ LeetCode problems**  
-🔥 Earned the **50 Days Badge** on LeetCode  
+🧠 Solved **300+ LeetCode problems**  
+🔥 Earned 6 different Badge on LeetCode showing consistency 
 📈 Current LeetCode Contest Rating: **1561**  
 ⚡ Solved **500+ DSA Questions** across coding platforms  
 🌱 Currently learning **React** and exploring modern web technologies  
