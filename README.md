@@ -13,7 +13,7 @@
 💻 Passionate about **Full Stack Development** and **Problem Solving**  
 ☕ Primary language: **Java**  
 🧠 Solved **300+ LeetCode problems**  
-🔥 Earned 6 different Badge on LeetCode showing consistency 
+🔥 Earned 6 different Badges on LeetCode showing consistency 
 📈 Current LeetCode Contest Rating: **1561**  
 ⚡ Solved **500+ DSA Questions** across coding platforms  
 🌱 Currently learning **React** and exploring modern web technologies  
